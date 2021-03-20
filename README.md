@@ -28,3 +28,5 @@ https://drive.google.com/uc?export=download&id=1g0hYm7wSPOm0IJSkWo8sOk4TKZPVTc1u
 ### You can see that we have got high accuracy detection using Mask RCNN with very low training images.
 
 ### With More images to train and with video detection using opencv, we can use this model for continous surveillance and get much higher results than expected.
+
+![](resources/images/test-image-1.png)
